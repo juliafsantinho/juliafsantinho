@@ -1,13 +1,14 @@
 ## 👋🏻  Oie, eu sou a Julia
-- Desenvolvedor(a) Java Full-Stack Jr  👩🏻‍💻  🚀 (em transição de carreira)
+- Desenvolvedora Java Full-Stack Jr  👩🏻‍💻  🚀 (em transição de carreira)
 - Participante do bootcamp da Generation FullStack Java  💻
 - Pronome: Ela/She 🤗 
 
 <div align="center">
   
-  <a href="https://github.com/juliafsantinho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliafsantinho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliafsantinho&layout=compact&langs_count=7&theme=tokyonight"/>
+<a href="https://github.com/juliafsantinho">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliafsantinho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliafsantinho&layout=compact&langs_count=7&theme=tokyonight"/>
+ 
  
 </div>
   <div style="display: inline_block"><br>
