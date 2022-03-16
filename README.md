@@ -1,4 +1,4 @@
-## 👋🏻  Oie, eu sou a Julia
+## 👋🏻  Oi, sou a Julia!!
 - Desenvolvedora Java Full-Stack Jr  👩🏻‍💻  🚀 (em transição de carreira)
 - Participante do bootcamp da Generation FullStack Java  💻
 - Pronome: Ela/She 🤗 
