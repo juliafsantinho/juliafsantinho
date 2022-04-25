@@ -1,6 +1,6 @@
 ## 👋🏻  Oi, sou a Julia!!
 - Desenvolvedora Java Full-Stack Jr  👩🏻‍💻  🚀 (em transição de carreira)
-- Participante do bootcamp da Generation FullStack Java  💻
+- Participante do bootcamp da Generation Desenvolvimento Web FullStack Java  💻
 - Pronome: Ela/She 🤗 
 
 <div align="center">
