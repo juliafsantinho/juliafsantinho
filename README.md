@@ -1,4 +1,5 @@
 ## 👋🏻  Oi, sou a Julia!!
+- 🌎 `<>Hello World!</>` 😁
 - Desenvolvedora Java Full-Stack Jr  👩🏻‍💻  🚀 (em transição de carreira)
 - Participante do bootcamp da Generation Desenvolvimento Web FullStack Java  💻
 - Pronome: Ela/She 🤗 
@@ -14,12 +15,13 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Julia-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Julia-React" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Julia-Ts" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Julia-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Julia-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Julia-Java" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Julia-MySQl" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Julia-Spring" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-  
+ 
  
 
     
@@ -34,8 +36,10 @@
   <a href="https://www.linkedin.com/in/juliafsantinho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   </div>
-
-
+<br><br>
+<div align="center">
+  <b></b>Obrigada por ler até aqui e não se esqueça de me adicionar. Até mais!
+<div>
   
 
 
