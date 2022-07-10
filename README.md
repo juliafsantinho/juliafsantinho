@@ -1,7 +1,7 @@
 ## 👋🏻  Olá pessoal, sou a Julia!!
 - 🌎 `<>Hello World!</>` 😁
 - 🚀 Desenvolvedora Java Full-Stack Jr   (em transição de carreira)
-- 📚 Participei do bootcamp de Desenvolvimento Java Fullstack da Generation e agora estou participando do bootcamp Code Girls Santander e DIO. 
+- 📚 Formada pelo bootcamp de Desenvolvimento Java Fullstack da Generation e agora estou participando do bootcamp Code Girls Santander e DIO. 
 - 💻 Em processo de me tornar uma Pessoa Desenvolvedora Java Jr.
 - 🤗 Pronome: Ela/She  
 
@@ -24,17 +24,10 @@
   <img align="center" alt="Julia-Ts" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Julia-React" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
   
-  
-  
- 
- 
-
     
   <img align="right" alt="Julia-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/c5289eab9a8752863d462e619acccaeb.gif" border="0" alt="gif maker"></a>
   </div>
  
-
-
 
 ## Entre em contato
  <div> 
