@@ -1,9 +1,9 @@
 ## 👋🏻  Olá pessoal, sou a Julia!!
 - 🌎 `<>Hello World!</>` 😁
-- 🚀 Desenvolvedora Java Full-Stack Jr   (em transição de carreira)
-- 📚 Formada pelo bootcamp de Desenvolvimento Java Fullstack da Generation e agora estou participando do bootcamp Code Girls Santander e DIO e do Liga Bootcamp. 
-- 💻 Em processo de me tornar uma Pessoa Desenvolvedora Java Jr.
-- 🤗 Pronome: Ela/She  
+- 🚀 Em processo de me tornar uma Pessoa Desenvolvedora Java Jr (em transição de carreira);
+- 📚 Formada pelo bootcamp de Desenvolvimento Java Fullstack da Generation Brasil;
+- 💻 Participante dos bootcamps Code Girls Santander/DIO e Liga Bootcamp;
+- 🤗 Pronome: Ela/She.
 
 ##
 <div align="center">  
@@ -13,7 +13,7 @@
 </div>
   
   
-   ## Linguagens e ferramentas
+   ## Linguagens e Ferramentas
   <div style="display: inline_block"><br>
   <img align="center" alt="Julia-Java" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Julia-Spring" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
