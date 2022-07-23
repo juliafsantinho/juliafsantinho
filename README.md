@@ -1,8 +1,8 @@
 ## 👋🏻  Olá pessoal, sou a Julia!!
 - 🌎 `<>Hello World!</>` 😁
 - 🚀 Em processo de me tornar uma Pessoa Desenvolvedora Java Jr (em transição de carreira);
-- 📚 Formada pelo bootcamp de Desenvolvimento Java Fullstack da Generation Brasil;
-- 💻 Participante dos bootcamps Code Girls Santander/DIO e Liga Bootcamp;
+- 📚 Formada pelo bootcamp de Desenvolvimento Java Fullstack da Generation Brasil e Code Girls Santander/DIO;
+- 💻 Participante do Liga Bootcamp - FACENS;
 - 🤗 Pronome: Ela/She.
 
 ##
