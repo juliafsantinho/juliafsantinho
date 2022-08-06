@@ -1,4 +1,4 @@
-## 👋🏻  Olá pessoal, sou a Julia!!
+## 👋🏻  Olá, sou a Julia!!
 - 🌎 `<>Hello World!</>` 😁
 - 🚀 Em processo de me tornar uma Pessoa Desenvolvedora Java Jr (em transição de carreira);
 - 📚 Formada pelo bootcamp de Desenvolvimento Java Fullstack da Generation Brasil e Code Girls Santander/DIO;
