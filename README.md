@@ -1,6 +1,6 @@
-## 👋🏻  Olá, sou a Julia!!
-- 🌎 `<>Hello World!</>` 😁
-- 🚀 Em processo de me tornar uma Pessoa Desenvolvedora Java Jr (em transição de carreira);
+
+## 🌎 `<>Hello World!</>` 
+- 🚀 Em processo de me tornar uma Desenvolvedora Fullstack (em transição de carreira);
 - 📚 Formada pelo bootcamp de Desenvolvimento Java Fullstack da Generation Brasil e Code Girls Santander/DIO;
 - 💻 Participante do Liga Bootcamp - FACENS;
 - 🤗 Pronome: Ela/She.
@@ -21,8 +21,9 @@
   <img align="center" alt="Julia-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Julia-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Julia-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Julia-Ts" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Julia-Ts" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Julia-React" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Julia-React" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
   
     
   <img align="right" alt="Julia-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/c5289eab9a8752863d462e619acccaeb.gif" border="0" alt="gif maker"></a>
