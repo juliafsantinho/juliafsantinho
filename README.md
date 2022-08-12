@@ -1,8 +1,7 @@
 
 ## 🌎 `<>Hello World!</>` 
 - 🚀 Em processo de me tornar uma Desenvolvedora Fullstack (em transição de carreira);
-- 📚 Formada pelo bootcamp de Desenvolvimento Java Fullstack da Generation Brasil e Code Girls Santander/DIO;
-- 💻 Participante do Liga Bootcamp - FACENS;
+- 📚 Formada pelo bootcamp de Desenvolvimento Java Fullstack da Generation Brasil, Code Girls Santander/DIO e do Liga Bootcamp - FACENS;
 - 🤗 Pronome: Ela/She.
 
 ##
