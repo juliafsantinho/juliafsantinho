@@ -1,6 +1,6 @@
 
 ## 🌎 `<>Hello World!</>` 
-- 🚀 Em processo de me tornar uma Desenvolvedora Fullstack (em transição de carreira);
+- 🚀 Estudante de Análise e Desenvolvimento de Sistemas - UNOPAR (ADS)
 - 📚 Formada pelo bootcamp de Desenvolvimento Java Fullstack da Generation Brasil, Code Girls Santander/DIO e do Liga Bootcamp - FACENS;
 - 👩🏻‍💻 Desenvolvedora Front-End Voluntária no Liga - FACENS;
 - 🤗 Pronome: Ela/She.
