@@ -2,7 +2,6 @@
 ## 🌎 `<>Hello World!</>` 
 - 🚀 Estudante de Análise e Desenvolvimento de Sistemas - UNOPAR
 - 📚 Formada pelo bootcamp de Desenvolvimento Java Fullstack da Generation Brasil, Code Girls Santander/DIO e do Liga Bootcamp - FACENS;
-- 👩🏻‍💻 Estagiária Fullstack no Liga (Laboratório de Inovação de Games e Apps) - FACENS;
 - 🤗 Pronome: Ela/She.
 
 ##
